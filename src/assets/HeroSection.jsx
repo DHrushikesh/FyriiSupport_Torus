@@ -37,7 +37,7 @@ export default function HeroSection() {
   
         {/* Content */}
         <div className="relative z-10 max-w-3xl">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">
+          <h1 className="text-4xl md:text-5xl font-bold mb-20">
             Welcome to the <span className="text-[#75ffff]">Torus Digital Developer Portal</span>
           </h1>
           <p className="text-lg md:text-xl mb-10 text-gray-300">
